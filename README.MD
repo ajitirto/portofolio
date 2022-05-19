@@ -5,7 +5,7 @@
 
 | Project                | Menggunakan                      | URL                                                |
 | ---------------------- | -------------------------------- | -------------------------------------------------- |
-| Website pribadi        | html, css, javascript, bootstrap | http://website-ajitirto.my.id                      |
+| Website pribadi        | html, css, javascript, bootstrap | http://portofolio.website-ajitirto.my.id                      |
 |                        |                                  | https://ajitirto.netlify.app/                      |
 | react-belajar-todolist | react                            | https://github.com/ajitirto/react-belajar-todolist |
 |                        |                                  |                                                    |
