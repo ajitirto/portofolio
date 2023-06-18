@@ -1,6 +1,14 @@
 <h2 align='center'>  Portofolio Untuk Web Developer </h2>
 <br/><br/>
 
+### AWS
+
+| Project                | Menggunakan                      | URL                                                                              |
+| ---------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| Website static         | html                             | https://ajitirto-web-static.s3.ap-southeast-1.amazonaws.com/index.html           |
+
+
+
 ### Front End
 
 | Project                | Menggunakan                      | URL                                                |
